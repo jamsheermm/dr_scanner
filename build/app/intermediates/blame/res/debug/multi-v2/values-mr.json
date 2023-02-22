@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/jamsheermoidu/Downloads/dr_scanner-master/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-mr/values-mr.xml",
+            "map": [
+                {
+                    "source": "/Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/e9c383001ee5db5cbd7586da88046b21/exoplayer-core-2.18.1/res/values-mr/values-mr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,190,259,328,403,467,564,658",
+                        "endColumns": "69,64,68,68,74,63,96,93,72",
+                        "endOffsets": "120,185,254,323,398,462,559,653,726"
+                    }
+                },
+                {
+                    "source": "/Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/844aeb5b8c3546d93e782d2c67b62370/core-1.8.0/res/values-mr/values-mr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "731",
+                        "endColumns": "100",
+                        "endOffsets": "827"
+                    }
+                }
+            ]
+        }
+    ]
+}

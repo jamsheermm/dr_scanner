@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/jamsheermoidu/Downloads/dr_scanner-master/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/5b8cb7129e497760a8e06fe043656a1d/core-1.6.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/jamsheermoidu/Downloads/dr_scanner-master/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/5b8cb7129e497760a8e06fe043656a1d/core-1.6.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/jamsheermoidu/Downloads/dr_scanner-master/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/layout/custom_dialog.xml",
+        "source": "/Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/5b8cb7129e497760a8e06fe043656a1d/core-1.6.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/jamsheermoidu/Downloads/dr_scanner-master/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/5b8cb7129e497760a8e06fe043656a1d/core-1.6.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/jamsheermoidu/Downloads/dr_scanner-master/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/5b8cb7129e497760a8e06fe043656a1d/core-1.6.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/jamsheermoidu/Downloads/dr_scanner-master/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/5b8cb7129e497760a8e06fe043656a1d/core-1.6.0/res/layout/notification_template_part_time.xml"
+    }
+]

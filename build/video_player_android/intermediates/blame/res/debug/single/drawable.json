@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/jamsheermoidu/Downloads/dr_scanner-master/build/video_player_android/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/4d56d8bc7779f9a8484ffac78b594376/core-1.7.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/jamsheermoidu/Downloads/dr_scanner-master/build/video_player_android/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/4d56d8bc7779f9a8484ffac78b594376/core-1.7.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/jamsheermoidu/Downloads/dr_scanner-master/build/video_player_android/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/4d56d8bc7779f9a8484ffac78b594376/core-1.7.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/jamsheermoidu/Downloads/dr_scanner-master/build/video_player_android/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/4d56d8bc7779f9a8484ffac78b594376/core-1.7.0/res/drawable/notification_tile_bg.xml"
+    }
+]

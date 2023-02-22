@@ -1,0 +1,217 @@
+-- Merging decision tree log ---
+application
+INJECTED from /Users/jamsheermoidu/Downloads/dr_scanner-master/android/app/src/main/AndroidManifest.xml:11:5-33:19
+MERGED from [:image_picker_android] /Users/jamsheermoidu/Downloads/dr_scanner-master/build/image_picker_android/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-17:19
+MERGED from [:image_picker_android] /Users/jamsheermoidu/Downloads/dr_scanner-master/build/image_picker_android/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-17:19
+MERGED from [org.tensorflow:tensorflow-lite:2.11.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/f4afbb40315405c96f468fd7c3350499/tensorflow-lite-2.11.0/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.11.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/f4afbb40315405c96f468fd7c3350499/tensorflow-lite-2.11.0/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.11.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/31e3d8ddd92fc8938d3c1a19e8ed5afb/tensorflow-lite-gpu-2.11.0/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.11.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/31e3d8ddd92fc8938d3c1a19e8ed5afb/tensorflow-lite-gpu-2.11.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/a22b71f83ef50a840832a1127e94f1e7/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/a22b71f83ef50a840832a1127e94f1e7/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.8.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/844aeb5b8c3546d93e782d2c67b62370/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/844aeb5b8c3546d93e782d2c67b62370/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/b3fa72f7ae3cd88b6d5e36875f4f0252/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/b3fa72f7ae3cd88b6d5e36875f4f0252/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [org.tensorflow:tensorflow-lite-api:2.11.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/446a051a628d3f95c0fb445f2d5b96ba/tensorflow-lite-api-2.11.0/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-api:2.11.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/446a051a628d3f95c0fb445f2d5b96ba/tensorflow-lite-api-2.11.0/AndroidManifest.xml:10:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/844aeb5b8c3546d93e782d2c67b62370/core-1.8.0/AndroidManifest.xml:24:18-86
+	android:name
+		INJECTED from /Users/jamsheermoidu/Downloads/dr_scanner-master/android/app/src/main/AndroidManifest.xml
+manifest
+ADDED from /Users/jamsheermoidu/Downloads/dr_scanner-master/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/jamsheermoidu/Downloads/dr_scanner-master/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/jamsheermoidu/Downloads/dr_scanner-master/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/jamsheermoidu/Downloads/dr_scanner-master/android/app/src/main/AndroidManifest.xml:1:1-34:12
+MERGED from /Users/jamsheermoidu/Downloads/dr_scanner-master/android/app/src/main/AndroidManifest.xml:1:1-34:12
+MERGED from [:tflite] /Users/jamsheermoidu/Downloads/dr_scanner-master/build/tflite/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:camera_android] /Users/jamsheermoidu/Downloads/dr_scanner-master/build/camera_android/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [:image_picker_android] /Users/jamsheermoidu/Downloads/dr_scanner-master/build/image_picker_android/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-19:12
+MERGED from [:flutter_plugin_android_lifecycle] /Users/jamsheermoidu/Downloads/dr_scanner-master/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider_android] /Users/jamsheermoidu/Downloads/dr_scanner-master/build/path_provider_android/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:video_player_android] /Users/jamsheermoidu/Downloads/dr_scanner-master/build/video_player_android/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [org.tensorflow:tensorflow-lite:2.11.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/f4afbb40315405c96f468fd7c3350499/tensorflow-lite-2.11.0/AndroidManifest.xml:2:1-12:12
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.11.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/31e3d8ddd92fc8938d3c1a19e8ed5afb/tensorflow-lite-gpu-2.11.0/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.1] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/4bf08acfa72c6977cc560a62c494cc9f/exoplayer-hls-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.1] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/b1dbd4637629cdc1413442461d43e579/exoplayer-dash-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.1] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/82261ee11851db808ee55acb4ce29783/exoplayer-smoothstreaming-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/e9c383001ee5db5cbd7586da88046b21/exoplayer-core-2.18.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/412798c5ff5129715d71e58ff213e3a7/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/ea98dc7796d0da05dec6e692a2ec56a7/window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/2b55f4dd1ddfb477bff2667016cc0a25/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/7d95adf5b88dd1f9089b34bd4d2e8a93/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/36b6b089b86a4b53f161d1de646d1e60/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/a22b71f83ef50a840832a1127e94f1e7/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/65668fdc6b75dc53c12b7eb5f279be35/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.8.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/844aeb5b8c3546d93e782d2c67b62370/core-1.8.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/e400b19ab49a7c354a80b6aa8bb39ff3/exifinterface-1.3.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/56dafc605783c2740b103e3112e88029/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/b1d7ce3c5ef28db3eba326d3e726ff1a/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/b3fa72f7ae3cd88b6d5e36875f4f0252/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.1] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/06ca18c0443ff77ddbc527251c47aa63/exoplayer-datasource-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.1] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/897ab8c5c85851d34ed35a9a28b2d562/jetified-exoplayer-extractor-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.1] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/75692bd6aae9ccd53352b1cebc639bee/exoplayer-decoder-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.1] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/5d406cc1247a03934b1d08bf47c8b3f9/exoplayer-database-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/da7d5ef062d224556354bd98f3ec5430/jetified-exoplayer-common-2.18.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/0691a1a6c3d055bc7ae9d66ba6bc80fa/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/a72cc53d82cf5702357646245a6e016a/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/439f22ecfa3eb2cee779567eba299ed4/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/9f15444f2716a768a033ebceff73e90f/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/73dec8f06dda83861b05ec84e654c876/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [org.tensorflow:tensorflow-lite-api:2.11.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/446a051a628d3f95c0fb445f2d5b96ba/tensorflow-lite-api-2.11.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/4ce2ba9b304f7caf07c2d244b4a1375d/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/jamsheermoidu/Downloads/dr_scanner-master/android/app/src/debug/AndroidManifest.xml:1:1-10:12
+INJECTED from /Users/jamsheermoidu/Downloads/dr_scanner-master/android/app/src/debug/AndroidManifest.xml:1:1-10:12
+INJECTED from /Users/jamsheermoidu/Downloads/dr_scanner-master/android/app/src/debug/AndroidManifest.xml:1:1-10:12
+	package
+		ADDED from /Users/jamsheermoidu/Downloads/dr_scanner-master/android/app/src/main/AndroidManifest.xml:2:5-37
+		INJECTED from /Users/jamsheermoidu/Downloads/dr_scanner-master/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jamsheermoidu/Downloads/dr_scanner-master/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/jamsheermoidu/Downloads/dr_scanner-master/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jamsheermoidu/Downloads/dr_scanner-master/android/app/src/main/AndroidManifest.xml:1:1-34:12
+		INJECTED from /Users/jamsheermoidu/Downloads/dr_scanner-master/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/jamsheermoidu/Downloads/dr_scanner-master/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jamsheermoidu/Downloads/dr_scanner-master/android/app/src/main/AndroidManifest.xml:1:1-34:12
+		INJECTED from /Users/jamsheermoidu/Downloads/dr_scanner-master/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jamsheermoidu/Downloads/dr_scanner-master/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/jamsheermoidu/Downloads/dr_scanner-master/android/app/src/main/AndroidManifest.xml:4:5-65
+MERGED from /Users/jamsheermoidu/Downloads/dr_scanner-master/android/app/src/main/AndroidManifest.xml:4:5-65
+MERGED from /Users/jamsheermoidu/Downloads/dr_scanner-master/android/app/src/main/AndroidManifest.xml:4:5-65
+MERGED from [:camera_android] /Users/jamsheermoidu/Downloads/dr_scanner-master/build/camera_android/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-65
+MERGED from [:camera_android] /Users/jamsheermoidu/Downloads/dr_scanner-master/build/camera_android/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from /Users/jamsheermoidu/Downloads/dr_scanner-master/android/app/src/main/AndroidManifest.xml:4:22-62
+uses-sdk
+INJECTED from /Users/jamsheermoidu/Downloads/dr_scanner-master/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/jamsheermoidu/Downloads/dr_scanner-master/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jamsheermoidu/Downloads/dr_scanner-master/android/app/src/main/AndroidManifest.xml
+MERGED from [:tflite] /Users/jamsheermoidu/Downloads/dr_scanner-master/build/tflite/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:tflite] /Users/jamsheermoidu/Downloads/dr_scanner-master/build/tflite/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:camera_android] /Users/jamsheermoidu/Downloads/dr_scanner-master/build/camera_android/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:camera_android] /Users/jamsheermoidu/Downloads/dr_scanner-master/build/camera_android/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:image_picker_android] /Users/jamsheermoidu/Downloads/dr_scanner-master/build/image_picker_android/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker_android] /Users/jamsheermoidu/Downloads/dr_scanner-master/build/image_picker_android/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /Users/jamsheermoidu/Downloads/dr_scanner-master/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /Users/jamsheermoidu/Downloads/dr_scanner-master/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] /Users/jamsheermoidu/Downloads/dr_scanner-master/build/path_provider_android/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] /Users/jamsheermoidu/Downloads/dr_scanner-master/build/path_provider_android/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:video_player_android] /Users/jamsheermoidu/Downloads/dr_scanner-master/build/video_player_android/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:video_player_android] /Users/jamsheermoidu/Downloads/dr_scanner-master/build/video_player_android/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [org.tensorflow:tensorflow-lite:2.11.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/f4afbb40315405c96f468fd7c3350499/tensorflow-lite-2.11.0/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite:2.11.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/f4afbb40315405c96f468fd7c3350499/tensorflow-lite-2.11.0/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.11.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/31e3d8ddd92fc8938d3c1a19e8ed5afb/tensorflow-lite-gpu-2.11.0/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.11.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/31e3d8ddd92fc8938d3c1a19e8ed5afb/tensorflow-lite-gpu-2.11.0/AndroidManifest.xml:7:5-8:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.1] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/4bf08acfa72c6977cc560a62c494cc9f/exoplayer-hls-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.1] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/4bf08acfa72c6977cc560a62c494cc9f/exoplayer-hls-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.1] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/b1dbd4637629cdc1413442461d43e579/exoplayer-dash-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.1] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/b1dbd4637629cdc1413442461d43e579/exoplayer-dash-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.1] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/82261ee11851db808ee55acb4ce29783/exoplayer-smoothstreaming-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.1] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/82261ee11851db808ee55acb4ce29783/exoplayer-smoothstreaming-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/e9c383001ee5db5cbd7586da88046b21/exoplayer-core-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/e9c383001ee5db5cbd7586da88046b21/exoplayer-core-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/412798c5ff5129715d71e58ff213e3a7/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/412798c5ff5129715d71e58ff213e3a7/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/ea98dc7796d0da05dec6e692a2ec56a7/window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/ea98dc7796d0da05dec6e692a2ec56a7/window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/2b55f4dd1ddfb477bff2667016cc0a25/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/2b55f4dd1ddfb477bff2667016cc0a25/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/7d95adf5b88dd1f9089b34bd4d2e8a93/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/7d95adf5b88dd1f9089b34bd4d2e8a93/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/36b6b089b86a4b53f161d1de646d1e60/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/36b6b089b86a4b53f161d1de646d1e60/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/a22b71f83ef50a840832a1127e94f1e7/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/a22b71f83ef50a840832a1127e94f1e7/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/65668fdc6b75dc53c12b7eb5f279be35/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/65668fdc6b75dc53c12b7eb5f279be35/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.8.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/844aeb5b8c3546d93e782d2c67b62370/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/844aeb5b8c3546d93e782d2c67b62370/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/e400b19ab49a7c354a80b6aa8bb39ff3/exifinterface-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/e400b19ab49a7c354a80b6aa8bb39ff3/exifinterface-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/56dafc605783c2740b103e3112e88029/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/56dafc605783c2740b103e3112e88029/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/b1d7ce3c5ef28db3eba326d3e726ff1a/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/b1d7ce3c5ef28db3eba326d3e726ff1a/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/b3fa72f7ae3cd88b6d5e36875f4f0252/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/b3fa72f7ae3cd88b6d5e36875f4f0252/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.1] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/06ca18c0443ff77ddbc527251c47aa63/exoplayer-datasource-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.1] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/06ca18c0443ff77ddbc527251c47aa63/exoplayer-datasource-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.1] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/897ab8c5c85851d34ed35a9a28b2d562/jetified-exoplayer-extractor-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.1] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/897ab8c5c85851d34ed35a9a28b2d562/jetified-exoplayer-extractor-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.1] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/75692bd6aae9ccd53352b1cebc639bee/exoplayer-decoder-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.1] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/75692bd6aae9ccd53352b1cebc639bee/exoplayer-decoder-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.1] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/5d406cc1247a03934b1d08bf47c8b3f9/exoplayer-database-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.1] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/5d406cc1247a03934b1d08bf47c8b3f9/exoplayer-database-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/da7d5ef062d224556354bd98f3ec5430/jetified-exoplayer-common-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/da7d5ef062d224556354bd98f3ec5430/jetified-exoplayer-common-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/0691a1a6c3d055bc7ae9d66ba6bc80fa/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/0691a1a6c3d055bc7ae9d66ba6bc80fa/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/a72cc53d82cf5702357646245a6e016a/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/a72cc53d82cf5702357646245a6e016a/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/439f22ecfa3eb2cee779567eba299ed4/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/439f22ecfa3eb2cee779567eba299ed4/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/9f15444f2716a768a033ebceff73e90f/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/9f15444f2716a768a033ebceff73e90f/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/73dec8f06dda83861b05ec84e654c876/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/73dec8f06dda83861b05ec84e654c876/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [org.tensorflow:tensorflow-lite-api:2.11.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/446a051a628d3f95c0fb445f2d5b96ba/tensorflow-lite-api-2.11.0/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-api:2.11.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/446a051a628d3f95c0fb445f2d5b96ba/tensorflow-lite-api-2.11.0/AndroidManifest.xml:7:5-8:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/4ce2ba9b304f7caf07c2d244b4a1375d/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/4ce2ba9b304f7caf07c2d244b4a1375d/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/jamsheermoidu/Downloads/dr_scanner-master/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/jamsheermoidu/Downloads/dr_scanner-master/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/jamsheermoidu/Downloads/dr_scanner-master/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jamsheermoidu/Downloads/dr_scanner-master/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/jamsheermoidu/Downloads/dr_scanner-master/android/app/src/main/AndroidManifest.xml
+		MERGED from /Users/jamsheermoidu/Downloads/dr_scanner-master/android/app/src/debug/AndroidManifest.xml
+		MERGED from /Users/jamsheermoidu/Downloads/dr_scanner-master/android/app/src/debug/AndroidManifest.xml
+		MERGED from /Users/jamsheermoidu/Downloads/dr_scanner-master/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/jamsheermoidu/Downloads/dr_scanner-master/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/jamsheermoidu/Downloads/dr_scanner-master/android/app/src/debug/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /Users/jamsheermoidu/Downloads/dr_scanner-master/android/app/src/debug/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [:camera_android] /Users/jamsheermoidu/Downloads/dr_scanner-master/build/camera_android/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-71
+	android:name
+		ADDED from [:camera_android] /Users/jamsheermoidu/Downloads/dr_scanner-master/build/camera_android/intermediates/library_manifest/debug/AndroidManifest.xml:10:22-68
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker_android] /Users/jamsheermoidu/Downloads/dr_scanner-master/build/image_picker_android/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-16:20
+	android:grantUriPermissions
+		ADDED from [:image_picker_android] /Users/jamsheermoidu/Downloads/dr_scanner-master/build/image_picker_android/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-47
+	android:authorities
+		ADDED from [:image_picker_android] /Users/jamsheermoidu/Downloads/dr_scanner-master/build/image_picker_android/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-74
+	android:exported
+		ADDED from [:image_picker_android] /Users/jamsheermoidu/Downloads/dr_scanner-master/build/image_picker_android/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [:image_picker_android] /Users/jamsheermoidu/Downloads/dr_scanner-master/build/image_picker_android/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker_android] /Users/jamsheermoidu/Downloads/dr_scanner-master/build/image_picker_android/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-15:75
+	android:resource
+		ADDED from [:image_picker_android] /Users/jamsheermoidu/Downloads/dr_scanner-master/build/image_picker_android/intermediates/library_manifest/debug/AndroidManifest.xml:15:17-72
+	android:name
+		ADDED from [:image_picker_android] /Users/jamsheermoidu/Downloads/dr_scanner-master/build/image_picker_android/intermediates/library_manifest/debug/AndroidManifest.xml:14:17-67
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.exoplayer:exoplayer-core:2.18.1] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/e9c383001ee5db5cbd7586da88046b21/exoplayer-core-2.18.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/da7d5ef062d224556354bd98f3ec5430/jetified-exoplayer-common-2.18.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/da7d5ef062d224556354bd98f3ec5430/jetified-exoplayer-common-2.18.1/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.exoplayer:exoplayer-core:2.18.1] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/e9c383001ee5db5cbd7586da88046b21/exoplayer-core-2.18.1/AndroidManifest.xml:24:22-76
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/a22b71f83ef50a840832a1127e94f1e7/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/a22b71f83ef50a840832a1127e94f1e7/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/a22b71f83ef50a840832a1127e94f1e7/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/a22b71f83ef50a840832a1127e94f1e7/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/a22b71f83ef50a840832a1127e94f1e7/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/jamsheermoidu/.gradle/caches/transforms-2/files-2.1/a22b71f83ef50a840832a1127e94f1e7/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
